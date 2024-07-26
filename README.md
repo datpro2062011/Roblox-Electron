@@ -1,6 +1,3 @@
-<a href="[https://github.com/waydabber/BetterDisplay/releases](https://github.com/77lez/robloxverified/releases)"><img src="https://img.shields.io/github/downloads/waydabber/BetterDisplay/total.svg?style=flat&color=blue" alt="downloads"/></a>
-
-
 # robloxverified
 A simple script that adds the Roblox verification badge to your name. Applies to all profiles.
 > [!CAUTION]
